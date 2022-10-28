@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DriveDownload", "DriveDownload\DriveDownload.csproj", "{F770F4CD-C252-4714-9728-EF12D9BFCA24}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F770F4CD-C252-4714-9728-EF12D9BFCA24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F770F4CD-C252-4714-9728-EF12D9BFCA24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F770F4CD-C252-4714-9728-EF12D9BFCA24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F770F4CD-C252-4714-9728-EF12D9BFCA24}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
